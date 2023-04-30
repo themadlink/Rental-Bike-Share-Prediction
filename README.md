@@ -6,6 +6,7 @@ publicly available in http://capitalbikeshare.com/system-data. We aggregated the
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com. 
 
 
+# Dataset characteristics
 
 - instant: record index
 	- dteday : date
